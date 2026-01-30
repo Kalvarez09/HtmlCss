@@ -1,1 +1,67 @@
+html {
+    background-color: 	#F5F1DA;
+}
 
+h1 {
+    color: #006039;
+    font-size: 100px;
+}
+
+h2 {
+  font-family: "Edu NSW ACT Cursive", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color:#A37E2C;;
+  font-size: 75px;
+
+}
+
+.IntText {
+    position: absolute;
+    top: 300px;
+    left: 15%;
+}
+
+.image {
+    margin-left: 60%;
+    margin-top: 350px;
+}
+
+
+.experience {
+    position: relative;
+    margin-top: 100px;
+    height: 550px;
+    width: 100%;
+    background-color: #9eca9e;
+
+}
+
+.experience > h3 {
+    position: relative;
+    color: 	#f4f4f2;
+    font-weight: bold;
+    font-size: 65px;
+    top: 0px;
+    left: 20%;
+    
+    
+
+}
+
+.info > p {
+    position: relative;
+    color: 	#f4f4f2;
+    top: 1px;
+    left: 20%;
+    font-size: 30px;
+
+
+}
+
+
+footer {
+    margin-left: 50%;
+    font-size: 40px;
+}
